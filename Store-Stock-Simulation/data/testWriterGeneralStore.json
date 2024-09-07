@@ -1,0 +1,16 @@
+{
+    "store_name": "MegaStore",
+    "user": "Bob",
+    "products": [
+        {
+            "quantity": 1000,
+            "price": 1.99,
+            "name": "Cola"
+        },
+        {
+            "quantity": 500,
+            "price": 2.5,
+            "name": "Chips"
+        }
+    ]
+}
